@@ -1,3 +1,5 @@
+Data - https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
 # Book-Recommender-System
 Recommends books based on popularity metrics such as rating count and average ratings.
 This project demonstrates a collaborative filtering-based book recommender system designed to provide personalized book recommendations. By analyzing user preferences and interactions, the system identifies books that align with individual tastes.
